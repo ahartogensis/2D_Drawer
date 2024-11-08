@@ -3,7 +3,10 @@
                                     GUI PROJECT
 -----------------------------------------------------------------------------
 
-Inside the GUI_project folder, there are four script files: main.py, GUI_Window.py,
+Project made with Maya cmds folder to create a pixel art canvas in Maya that 
+translates to the 3D viewport. 
+
+Inside this project, there are four script files: main.py, GUI_Window.py,
 Grid.py, and GUI_Button.py. Additionally, the file has images I created in Canva
 that get loaded in as textures. 
 - main.py 
@@ -16,7 +19,7 @@ that get loaded in as textures.
     The Button class, an object for the buttons on the grid. It holds meta data 
     on the button and it's cube form. 
 
-For my GUI project, I made a drawing feature where the user can draw anything they 
+I made a drawing feature where the user can draw anything they 
 want on a canvas of buttons and then build the 3D version in the Maya viewport. 
 On the side of the canvas, there are multiple tools to help the user draw. 
 The main GUI has two tabs, the drawer and questions. In the questions tab, there is
